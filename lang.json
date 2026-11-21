@@ -1,0 +1,25 @@
+{
+  "languages": [
+    "es",
+    "zh",
+    "hi",
+    "ar",
+    "pt",
+    "fr",
+    "de",
+    "ru"
+  ],
+  "keys": {
+    "Colors": ["Colores", "", "", "", "", "", "", ""],
+    "Color": ["Color", "", "", "", "", "", "", ""],
+    "Name": ["Nombre", "", "", "", "", "", "", ""],
+    "Base hex colour (#RRGGBB). Translucent fill and legible text adapt automatically to light and dark themes.": [
+      "Color base en formato #RRGGBB. El fondo translúcido y el texto legible se adaptan automáticamente al tema claro y oscuro.",
+      "", "", "", "", "", "", ""
+    ],
+    "Manage the colours available for specialties, roles and tags. Changes apply immediately without recompiling.": [
+      "Administra los colores disponibles para especialidades, roles y etiquetas. Los cambios se aplican de inmediato sin recompilar.",
+      "", "", "", "", "", "", ""
+    ]
+  }
+}
